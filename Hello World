@@ -1,0 +1,8 @@
+#include <iostream.h>
+
+main()
+{
+    cout << "Hello World!";
+    cout << "I'm Happy For Living This World";
+    return 0;
+}
