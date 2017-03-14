@@ -1,0 +1,19 @@
+ #include<iostream.h>
+#include<conio.h>
+void main()
+{
+ char nama[32];
+ char kelas[12];
+ char nim[12];
+ char alamat[50];
+ char prodi [18];
+ char fakultas [50];
+
+ cout<<"Nama\t\t: ";cin>>nama;
+ cout<<"NIM\t\t: ";cin>>nim;
+ cout<<"Kelas\t\t: ";cin>>kelas;
+ cout<<"Alamat\t\t: ";cin>>alamat;
+ cout<<"Prodi\t\t: ";cin>>prodi;
+ cout<<"Fakultas\t: ";cin>>fakultas;
+ getch();
+}
